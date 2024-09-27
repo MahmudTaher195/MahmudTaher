@@ -37,6 +37,7 @@ const OurNews = () => {
             <p className='py-[10px]' >There are many variations of passages of Lorem Ipsum , but the majority have suffered alteration in some form.</p>
             <button className='bg-blue-200 rounded-[10px] w-[120px]'>Learn More</button>
           </div>
+       
           <div className='w-[370px] border-[1px] p-[30px] border-[#363535]'>
 
             <img src={picer6} alt="" />
@@ -69,54 +70,8 @@ const OurNews = () => {
             <p className='py-[10px]' >There are many variations of passages of Lorem Ipsum , but the majority have suffered alteration in some form.</p>
             <button className='bg-blue-200 rounded-[10px] w-[120px]'>Learn More</button>
           </div>
-          <div className='w-[370px] border-[1px] p-[30px] border-[#363535]'>
 
-            <img src={picer6} alt="" />
 
-            <div className='flex pt-[20px] '>
-              <IoMdContact />
-              <span className=' pl-[10px]' >Admin</span>
-              <div className=' flex px-[30px]'>
-                <BsCalendar2DateFill />
-                <span className='pl-[10px]'>07/11/2021</span>
-              </div>
-            </div>
-            <h3 className='pt-[15px] text-[25px]'>Business Plans That Fit Your Best Blog</h3>
-            <p className='py-[10px]' >There are many variations of passages of Lorem Ipsum , but the majority have suffered alteration in some form.</p>
-            <button className='bg-blue-200 rounded-[10px] w-[120px]'>Learn More</button>
-          </div>
-          <div className=' w-[370px]  border-[1px] p-[30px] border-[#363535]'>
-
-            <img src={picer5} alt="" />
-
-            <div className='flex pt-[20px] '>
-              <IoMdContact />
-              <span className=' pl-[10px]' >Admin</span>
-              <div className=' flex px-[30px]'>
-                <BsCalendar2DateFill />
-                <span className='pl-[10px]'>07/11/2021</span>
-              </div>
-            </div>
-            <h3 className='pt-[15px] text-[25px]'>Business Plans That Fit Your Best Blog</h3>
-            <p className='py-[10px]' >There are many variations of passages of Lorem Ipsum , but the majority have suffered alteration in some form.</p>
-            <button className='bg-blue-200 rounded-[10px] w-[120px]'>Learn More</button>
-          </div>
-          <div className=' w-[370px]  border-[1px] p-[30px] border-[#363535]'>
-
-            <img src={pic2} alt="" />
-
-            <div className='flex pt-[20px] '>
-              <IoMdContact />
-              <span className=' pl-[10px]' >Admin</span>
-              <div className=' flex px-[30px]'>
-                <BsCalendar2DateFill />
-                <span className='pl-[10px]'>07/11/2021</span>
-              </div>
-            </div>
-            <h3 className='pt-[15px] text-[25px]'>Business Plans That Fit Your Best Blog</h3>
-            <p className='py-[10px]' >There are many variations of passages of Lorem Ipsum , but the majority have suffered alteration in some form.</p>
-            <button className='bg-blue-200 rounded-[10px] w-[120px]'>Learn More</button>
-          </div>
         </div>
       </div>
 
