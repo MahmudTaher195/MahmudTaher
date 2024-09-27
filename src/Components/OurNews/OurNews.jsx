@@ -20,7 +20,7 @@ const OurNews = () => {
       </div>
 
       <div className='flex container mx-auto justify-center '>
-        <div className='flex gap-[50px] flex-wrap' >
+        <div className='flex gap-[50px] ' >
           <div className='w-[370px] border-[1px] p-[30px] border-[#363535]'>
 
             <img src={picer6} alt="" />
